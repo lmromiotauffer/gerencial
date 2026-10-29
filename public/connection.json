@@ -1,0 +1,7 @@
+{
+  "host": "painel.sinfra.mt.gov.br",
+  "isSecure": true,
+  "port": 443,
+  "prefix": "/",
+  "appId": "d7a3a844-2740-4c8e-91ce-08cddc797825"
+}

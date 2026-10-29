@@ -1,0 +1,16 @@
+{
+  "filterpane": [
+    { "label": "Contrato", "expression": "Contrato" },
+    { "label": "Situação do contrato", "expression": "=[Situação atual do contrato]" },
+    { "label": "Credor", "expression": "Credor" },
+    { "label": "Adjunta", "expression": "=[Sigla adjunta]" },
+    { "label": "Setor", "expression": "=[Sigla órgão setor]" },
+    { "label": "Tipo do contrato", "expression": "=[Tipo do contrato]" },
+    { "label": "Classificação do contrato", "expression": "=[Classificação do contrato]" },
+    { "label": "Município", "expression": "=[Município]" },
+    { "label": "Situação da obra", "expression": "=[Situação atual da obra]" },
+    { "label": "Tipo da obra", "expression": "=[Tipo da obra]" },
+    { "label": "Classificação da obra", "expression": "=[Classificação da obra]" },
+    { "label": "Rodovia", "expression": "=[Sigla da rodovia]" }
+  ]
+}
